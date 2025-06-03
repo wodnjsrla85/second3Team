@@ -41,6 +41,9 @@ dependencies:
   # Geolocator
   geolocator: ^14.0.1
 
+  # GetX
+  get: ^4.7.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
